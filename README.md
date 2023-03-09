@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Camilo Pedreros</h1>
-<h3 align="left"> Mi nombre es Camilo Pedreros y soy un apasionado por la tecnología, los datos y la vida. En este perfil de Github encontrarás los proyectos que estoy desarrollando en el mundo de data science. Mi trayectoria académica y laboral me ha permitido adquirir habilidades y conocimientos en áreas como la estadística, la programación y el análisis de datos.</h3>
+<h3 align="left"> Soy un apasionado por la tecnología, los datos y la vida. En este perfil de Github encontrarás los proyectos que estoy desarrollando en el mundo de data science. Mi trayectoria académica y laboral me ha permitido adquirir habilidades y conocimientos en áreas como la estadística, la programación y el análisis de datos.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=camiilop14&label=Profile%20views&color=0e75b6&style=flat" alt="camiilop14" /> </p>
 
