@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/camilo-pedreros-106a1a245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="camilo pedreros" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/camilopedreros8055" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="camilopedreros8055" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCDrDApWrg1ypyGrDMeYp6Zg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="camilopedreros8055" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
